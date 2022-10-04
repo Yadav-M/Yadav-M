@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yadav-M
 - 👀 I’m interested in Hacking, Cyber Security, Python, C And C++.
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning Kali Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
